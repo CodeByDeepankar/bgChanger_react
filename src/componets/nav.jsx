@@ -4,19 +4,10 @@ function Nav() {
   return (
     <nav class="bg-white border-gray-200 dark:bg-gray-900">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-          <a
-            href="https://flowbite.com/"
-            class="flex items-center space-x-3 rtl:space-x-reverse"
-          >
-            <img
-              src="public/logo.webp"
-              class="h-8"
-              alt="Flowbite Logo"
-            />
-            <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              DeepNova
-            </span>
-          </a>
+        <a href="https://soloist.ai/deepankarsahoo/" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <img src="https://cdn.soloist.ai/d21fcf39-dcbe-4d5b-9c22-566812d78a6d/logo/4de2078c-023f-4657-8232-5a05ca2ff230.png" class="h-8" alt="Flowbite Logo" />
+        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">DeepNova</span>
+    </a>
           <button
             data-collapse-toggle="navbar-default"
             type="button"
