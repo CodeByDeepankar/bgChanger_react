@@ -9,7 +9,7 @@ function Nav() {
             class="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <img
-              src="public/4de2078c-023f-4657-8232-5a05ca2ff230.png"
+              src="public/logo.webp"
               class="h-8"
               alt="Flowbite Logo"
             />
